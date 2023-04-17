@@ -27,7 +27,7 @@ for (let i = 1; i < numberOfImagesInDirectory; i++) {
 }
 
 
-// Custom Rummers Background JS L Stone 13/03/2023
+// Custom Rummers Background
 function backgroundSequence() {
 	window.clearTimeout();
 	var k = 0;
